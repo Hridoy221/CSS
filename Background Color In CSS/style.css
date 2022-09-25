@@ -1,0 +1,31 @@
+.ClassName{
+    background-color: blue;
+    color: white;
+}
+.ClassName > h2{
+    background-color: tomato;
+}
+    
+
+.ClassName2{
+    background-color: aqua;
+    color: blueviolet;
+}
+.ClassName2 > h2{
+    background-color: darkorange;
+}
+
+.ClassName3{
+    background-color: brown;
+    color: darkblue;
+}
+.ClassName3 > h2{
+    background-color: deeppink;
+    color: black;
+
+
+}
+    
+
+
+    
