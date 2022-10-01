@@ -1,0 +1,18 @@
+h2{
+    text-shadow: 5px 5px 5px green;
+    color: rgb(178, 235, 34);
+}
+
+.box{
+    box-shadow: 5px 5px 5px rgb(25, 25, 28);
+    height: 100px;
+    width: 200px;
+    background-color: rgb(95, 13, 226);
+}
+
+.class{
+    box-shadow: 10px 5px 5px black;
+    height: 100px;
+    width: 200px;
+    background-color: rgb(247, 25, 96);
+}
