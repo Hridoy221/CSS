@@ -1,0 +1,10 @@
+.box{
+    height: 500%;
+    width: 800%;
+    border: 5px solid white;
+    border-radius: 90%;
+}
+
+.box1{
+    background-image: radial-gradient(red, green, blue);
+}
