@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+
+
+.box{
+    background-color: skyblue;
+    color: blue;
+    /* /* margin: 20px;
+    margin-top: 20px;
+   margin-buttom: 30px; 
+    margin-left: 20px; */
+    /* margin-right: 30px; */ 
+    margin: 20px 30px 50px 40px;
+}

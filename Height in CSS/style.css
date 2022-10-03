@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0;
+}
+
+.box{
+    background-color: blue;
+    color: white;
+}
+
+.box2{
+    background-color: gray;
+    /* height: fit-content;
+    height: max-content;
+    padding: 20px;
+    height: min-contents; */
+}
+P{
+    /* height: 60px; */
+    height: fit-content;
+    background-color: brown;
+}
+
+.box3{
+    height: 200px;
+    background-color: goldenrod;
+}
