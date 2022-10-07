@@ -1,0 +1,23 @@
+*{margin: 0;
+    padding: 0;
+}
+
+#img{
+    /* height: 100px; */
+    /* width: 200px; */
+    width: 100%;
+    /* width: auto; */
+}
+
+.box{
+    background-color: skyblue;
+    margin: 10px 0;
+}
+
+.box2{
+    /* width: fit-content;
+    width: max-content; */
+    /* width: min-content; */
+    /* width: auto; */
+    width: 10rem;
+}
