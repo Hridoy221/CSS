@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a:link, a:visited{
+    color: goldenrod;
+    /* background-color: black; */
+    padding: 0;
+    height: ;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+/* 
+a:hover{
+    background-color: yellow;
+    
+     color: pink;
+} */
+
+
+
+a:active{
+    color: red;
+}
