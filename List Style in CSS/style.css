@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(250, 247, 247);
+    gap: 1rem;
+    display: flex;
+}
+
+li{
+
+    /* list-style: inside; */
+    /* list-style: bengali; */
+    /* list-style: urdu; */
+    /* list-style: arabic-indic; */
+    /* list-style: square; */
+    /* list-style: decimal; */
+    /* list-style: decimal-leading-zero; */
+    /* list-style: lower-alpha; */
+    /* list-style: lower-roman; */
+    /* list-style: upper-alpha; */
+    /* list-style: upper-roman; */
+    list-style: none;
+}
