@@ -1,0 +1,28 @@
+a:link{
+    color: yellow;
+}
+
+a:visited{
+    color: aqua;
+} 
+a:hover{
+   background-color:  rgb(229, 42, 95);
+}
+
+li:nth-child(even){
+    background-color: tomato;
+    color: blue;
+}
+
+li:first-child{
+    background-color: red;
+}
+
+li:nth-last-child(3){
+    color: blueviolet;
+
+}
+
+input:focus{
+    background-color: pink;
+}

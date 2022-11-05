@@ -1,0 +1,15 @@
+.container{
+    background-color:rgb(102, 85, 85);
+}
+
+.box{
+    border: 1px solid;
+    height: 100px;
+    width: 100px;
+}
+
+#box_2{
+    position: relative;
+    top: 60px;
+
+}

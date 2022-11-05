@@ -1,0 +1,38 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+/* h1{
+    background-color: yellow;
+} */
+
+h2::after{
+    content: "Listen Coder's";
+    color: red;
+}
+
+h2::before{
+    content: "Hi,";
+    color: green;
+    background-color: khaki;
+}
+
+h2::first-letter{
+    font-size: 5rem;
+    color: rgb(92, 23, 231);
+}
+
+p::first-line{
+    font-size: 3rem;
+    color: blueviolet;
+}
+
+li::marker{
+    color: red;
+}
+
+p::selection{
+    background-color: yellow;
+
+}
