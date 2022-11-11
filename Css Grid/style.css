@@ -1,0 +1,16 @@
+.container{
+    background-color: brown;
+    width: 600px;
+    height: 600px;
+    display: grid;
+    grid-template-columns: 10% 60%  ;
+    /* grid-template-rows:1fr 2fr 1fr; */
+    grid-template-rows:10% 20% 1fr;
+}
+
+.box{
+    background-color: blue;
+    /* height: 100px;
+    width: 100px; */
+    border: 1px solid;
+}
